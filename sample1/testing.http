@@ -1,0 +1,6 @@
+
+curl -X POST http://localhost:8000/echo \
+     -H "Content-Type: application/json" \
+     -d '{"text":"hello A2A"}'
+
+
