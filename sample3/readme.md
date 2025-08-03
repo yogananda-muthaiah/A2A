@@ -1,5 +1,5 @@
 
-Below is a minimal, fully runnable Python 3 script that reproduces the exact “Predictive Stock Transfer & Automatic Purchase Re-Order” use-case by calling the real SAP Cloud APIs.
+Below is a minimal, fully runnable Python script that reproduces the exact “Predictive Stock Transfer & Automatic Purchase Re-Order” use-case by calling the real SAP Cloud APIs.
 It is intentionally short and self-contained; in production you would externalise secrets, add error handling, paging, OAuth refresh, etc.
 
 ``` 
