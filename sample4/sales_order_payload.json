@@ -1,0 +1,15 @@
+{
+  "SalesOrderType": "OR",
+  "SalesOrganization": "1710",
+  "DistributionChannel": "10",
+  "OrganizationDivision": "00",
+  "SoldToParty": "100000",
+  "to_Item": [
+    {
+      "SalesOrderItem": "10",
+      "Material": "TG11",
+      "RequestedQuantity": "1",
+      "RequestedQuantityUnit": "PC"
+    }
+  ]
+}
